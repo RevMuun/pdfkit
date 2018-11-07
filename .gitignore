@@ -11,3 +11,5 @@ demo/bundle.js
 !demo/browser.html
 .vscode
 coverage
+.idea/
+package-lock.json
